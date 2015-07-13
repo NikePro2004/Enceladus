@@ -14,7 +14,7 @@ local _ENV = getfenv(0)
 
 local Data = {
 	AllowedIds = {
-		[249328298] = true,
+		[209202931] = true,
 	}
 }
 
